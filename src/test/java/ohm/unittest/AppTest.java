@@ -16,6 +16,6 @@ public class AppTest extends TestCase {
 	@Test
 	public void testAbc()
 	{
-		assertEquals("abc",App.abc());
+		assertEquals("abcd",App.abc());
 	}
 }
