@@ -1,0 +1,24 @@
+#surefire
+#Sat Jun 20 18:56:57 ICT 2015
+testClassesDirectory=/Users/habogay/Documents/workspace/ohmunittest/target/test-classes
+classPathUrl.2=/Users/habogay/.m2/repository/junit/junit/4.5/junit-4.5.jar
+useManifestOnlyJar=true
+classPathUrl.1=/Users/habogay/Documents/workspace/ohmunittest/target/classes
+reportsDirectory=/Users/habogay/Documents/workspace/ohmunittest/target/surefire-reports
+classPathUrl.0=/Users/habogay/Documents/workspace/ohmunittest/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=/Users/habogay/Documents/workspace/ohmunittest/src/test/java
+surefireClassPathUrl.1=/Users/habogay/.m2/repository/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.jar
+surefireClassPathUrl.0=/Users/habogay/.m2/repository/org/apache/maven/surefire/surefire-junit4/2.12.4/surefire-junit4-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=ohm.unittest.AppTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=/Users/habogay/Documents/workspace/ohmunittest/.surefire-2534E63CF9E18F8587F3B8FD4733B92967FD46CF
+includes0=**/Test*.java
+childDelegation=false
